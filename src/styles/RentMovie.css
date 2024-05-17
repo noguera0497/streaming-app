@@ -1,0 +1,14 @@
+.button-rent {
+    background-color: #ff0000;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.button-rent:hover {
+    background-color: #b5121b;
+}

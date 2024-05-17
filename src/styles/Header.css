@@ -1,0 +1,11 @@
+
+.header-footer{
+    text-align: center;
+}
+
+.header-footer h1 {
+
+    color: #ffffff; /* Rojo */
+    text-shadow: 0 0 10px #ff0000, 0 0 20px #ffffff, 0 0 30px #ff0000; /* Efecto de resplandor */
+}
+
